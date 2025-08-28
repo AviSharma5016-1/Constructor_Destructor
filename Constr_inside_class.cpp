@@ -7,9 +7,9 @@ class date{
     public:
     date() {
         cout << "Constructor called" << endl;
-        d = 4;
-        m = 9;
-        y = 2024;
+        d = 28;
+        m = 8;
+        y = 2025;
     }
 
     
@@ -24,5 +24,7 @@ int main() {
 
     return 0;
 }
-//Constructor called
-//Today's date is: 4/9/2024
+/*OUTPUT
+Constructor called
+Today's date is: 28/08/2025
+*/
