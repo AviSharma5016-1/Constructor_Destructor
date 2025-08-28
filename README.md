@@ -1,4 +1,4 @@
-# Constructor and Object Concepts in C++
+# Constructor and Destructors in C++
 
 ## Aim
 To understand and explore the concepts of constructors, destructors, object creation and destruction, copy constructors, parameterized constructors, and date handling using classes in C++, by implementing multiple program experiments demonstrating these features.
