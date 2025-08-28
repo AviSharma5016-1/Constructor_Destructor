@@ -9,7 +9,7 @@ construct(){
     b = 20;
 }
 void display(){
-cout << "a ="<< a <<endl<< "b ="<<b;
+cout << "a= "<< a <<endl<< "b= "<<b;
 }
 };
 
@@ -22,5 +22,7 @@ int main() {
     return 0;
 }
 
-//a =10
-//b =20
+/*OUTPUT
+a= 10
+b= 20
+*/
